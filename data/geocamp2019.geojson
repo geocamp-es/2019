@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geocamp2019",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "text": "Geocamp 2019", "icon": "museum", "url": "http:\/\/museuhortasud.com\/", "desc": null }, "geometry": { "type": "Point", "coordinates": [ -51470.349766527375323, 4784216.977268191985786 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "text": "Geopaella", "icon": "paella", "url": "http:\/\/descubrelhorta.com\/", "desc": null }, "geometry": { "type": "Point", "coordinates": [ -43624.901276260126906, 4795561.846692489460111 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "text": "Aeropuerto", "icon": "airport", "url": null, "desc": null }, "geometry": { "type": "Point", "coordinates": [ -52714.992097761751211, 4792325.038476609624922 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "text": "Estación Renfe", "icon": "train", "url": null, "desc": null }, "geometry": { "type": "Point", "coordinates": [ -41988.469160102416936, 4788788.709809212945402 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "text": "Estación AVE", "icon": "train", "url": null, "desc": null }, "geometry": { "type": "Point", "coordinates": [ -42443.285997382874484, 4787830.528269998729229 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "text": "Metro", "icon": "metro", "url": null, "desc": null }, "geometry": { "type": "Point", "coordinates": [ -51313.633852558028593, 4784335.082014945335686 ] } }
+]
+}

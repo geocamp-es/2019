@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+# Setup
+title:               Geocamp 2019 Valencia
+
+twitter_username: geocampes
+github_username:  geocamp-es
+
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jemoji
