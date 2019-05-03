@@ -43,4 +43,7 @@ En caso de que sea necesario reportar una violación del código de conducta, po
 
 Podrás saber más de Geocamp a través de la cuenta en twitter [`@geocampes`](https://twitter.com/geocampes) :eyes:
 
-<a class="twitter-timeline" data-lang="es" data-height="600" data-link-color="#E95F28" href="https://twitter.com/geocampes?ref_src=twsrc%5Etfw">Tweets by geocampes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="max-width:400px;margin: 10px 30px 0;">
+<a class="twitter-timeline" data-lang="es" data-height="600" data-link-color="#E95F28" href="https://twitter.com/geocampes?ref_src=twsrc%5Etfw" data-chrome="noheader noborders transparent">Tweets by geocampes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
