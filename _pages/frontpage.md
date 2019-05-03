@@ -36,7 +36,7 @@ En caso de que sea necesario reportar una violación del código de conducta, po
 
 ## Equipo
 
-* Organiza: [Equipo]({% link _pages/coc.md %}),  [Geoinquietos Valencia](http://valencia.geoinquietos.org)
+* Organiza: [Equipo]({% link _pages/equipo.md %}),  [Geoinquietos Valencia](http://valencia.geoinquietos.org)
 * Colaboran: [Museu Comarcal de L'Horta Sud](http://www.museuhortasud.com/es)
 
 ## Mantente informado
