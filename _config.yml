@@ -1,15 +1,45 @@
-theme: jekyll-theme-minimal
-
-# Setup
-title:               Geocamp 2019 Valencia
-
-twitter_username: geocampes
-github_username:  geocamp-es
-
-
+ # Setup
+theme: minima
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-mentions
   - jekyll-sitemap
   - jemoji
+
+include:
+  - "_pages"
+
+exclude:
+  - "README.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# Geocamp Data
+
+title: Geocamp 2019 Valencia
+
+description: >
+  Geocamp 2019, Valencia 15/16 de Junio.
+
+author: Geoinquietos VLC
+twitter_username: geocampes
+github_username:  geocamp-es
+
+minima:
+  date_format: "%Y-%m-%d"
+
+  # generate social links in footer
+  social_links:
+    twitter: geoinquietosvlc
+    github:  geocamp-es
+    rss: rss
+    instagram: '#geocampes'
+    telegram: '@geocampes'
+
+header_pages:
+  - _pages/equipo.md
+  - _pages/coc.md
+  - _pages/anteriores.md
