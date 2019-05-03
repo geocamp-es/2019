@@ -28,18 +28,21 @@ author: Geoinquietos VLC
 twitter_username: geocampes
 github_username:  geocamp-es
 
-minima:
-  date_format: "%Y-%m-%d"
-
-  # generate social links in footer
-  social_links:
-    twitter: geoinquietosvlc
-    github:  geocamp-es
-    rss: rss
-    instagram: '#geocampes'
-    telegram: '@geocampes'
 
 header_pages:
   - _pages/equipo.md
   - _pages/coc.md
   - _pages/anteriores.md
+
+minima:
+  date_format: "%Y-%m-%d"
+
+  # generate social links in footer
+  social_links:
+    twitter: geocampes
+    github:  geocamp-es
+    rss: rss
+    instagram: '#geocampes'
+    telegram: '@geocampes'
+
+
