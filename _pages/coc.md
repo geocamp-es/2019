@@ -6,11 +6,7 @@ permalink: /coc/
 
 
 
-Todos los participantes y colaboradores de esta actividad están obligados a aceptar el siguiente código de conducta. La organización hará cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todo el mundo. 
-
-<!--
-En caso de que sea necesario reportar una violación del código de conducta, podéis contactar con Laia (llinares@geocamp.es) o con Jorge (jsanz@geocamp.es).
--->
+Todos los participantes y colaboradores de esta actividad están obligados a aceptar el siguiente código de conducta. La organización hará cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todo el mundo. En caso de que sea necesario reportar una violación del código de conducta, podéis contactar con [Laia](llinares@geocamp.es) o con [Jorge](jsanz@geocamp.es).
 
 Nuestra conferencia quiere proporcionar una experiencia libre de acoso para todo el mundo, independientemente del sexo, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o carencia de ella) u opciones tecnológicas. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje y las imágenes de carácter sexual no son apropiadas para ningún espacio de la conferencia, incluidas charlas, talleres, fiestas, twitter u otros medios de comunicación en línea. Los participantes de la conferencia que violen estas reglas pueden ser amonestados o expulsados de la conferencia a discreción de la organización.
 
