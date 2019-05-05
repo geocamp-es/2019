@@ -29,6 +29,8 @@ author: Geoinquietos VLC
 twitter_username: geocampes
 github_username:  geocamp-es
 
+header_logo: assets/imgs/favicons/favicon_114.png
+
 
 header_pages:
   - _pages/equipo.md
