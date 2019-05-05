@@ -6,7 +6,7 @@ list_title: Noticias
 ---
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="./assets/imgs/LogoGeoCamp.png">
+<img src="./assets/imgs/logo-geocamp-azul-valencia.png">
 </div>
 
 ## Qué es

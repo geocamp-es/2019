@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ediciones anteriores
+short-title: Geocamps
 permalink: /ediciones-anteriores/
 ---
 

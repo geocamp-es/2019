@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Código de conducta
+short-title: CoC
 permalink: /coc/
 ---
 
