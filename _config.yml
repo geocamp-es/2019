@@ -33,6 +33,7 @@ header_logo: assets/imgs/favicons/favicon_114.png
 
 
 header_pages:
+  - _pages/museu.md
   - _pages/equipo.md
   - _pages/coc.md
   - _pages/anteriores.md

@@ -20,15 +20,12 @@ de otras experiencias y proyectos.
 <img src="./assets/imgs/barcelona.jpg">
 </div>
 
-Pronto más contenido aquí, de momento el contenido de la propuesta puede consultarse en [este documento](https://docs.google.com/document/d/18C9hUiPlo4DGB2qAlh5k6krYQ-aobvL1VFNPZB_1nBA/edit?usp=sharing)
-
 Lo mínimo que debes saber:
 
-* **Cuándo**: fin de semana del **15/16 de junio**
-* **Dónde**:
-  * Desconferencia: **Museu de L'horta Sud, Torrent**
-  * Actividad social: Geopaella en **Descubre L'Horta, Borbotó**
-* **Cómo**: esto es una desconferencia (tipo [Barcamp](https://es.wikipedia.org/wiki/BarCamp)), **sin agenda previa**, nos reunimos en un lugar común y en el comienzo de la jornada se aceptan propuestas de **charlas** o cualquier otra **actividad** de no más de **20 o 30 minutos**. Una vez recogidas las ordenamos de manera que tengan la mayor consistencia y procedemos con la jornada. Así de simple.
+* **Qué**, **cuándo** y **dónde**:
+    * **Desconferencia**: sábado 15 de junio en el [Museu de L'horta Sud, Torrent]({% link _pages/museu.md %})
+    * **Geopaella**: domingo 16 de junio en [Descubre L'Horta, Borbotó](http://descubrelhorta.com/)
+* **Cómo**: esto es una desconferencia (tipo [Barcamp](https://es.wikipedia.org/wiki/BarCamp)): **sin agenda previa**, nos reunimos en un lugar común y en el comienzo de la jornada se aceptan propuestas de **charlas** o cualquier otra **actividad** de no más de **20 o 30 minutos**. Una vez recogidas las ordenamos de manera que tengan la mayor consistencia y procedemos con la jornada. Así de simple.
 
 <div style="max-width:400px;text-align:center;margin:10px auto 20px;">
 <img src="./assets/imgs/postits.jpg">
@@ -38,12 +35,14 @@ Lo mínimo que debes saber:
 
 Todos los asistentes, oradores y colaboradores de esta actividad están obligados a aceptar el siguiente [Código de Conducta]({% link _pages/coc.md %}). La organización hará cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todo el mundo.
 
+Este año disponemos de un espacio que es **totalmente accessible** por lo que si tienes problemas de mobilidad reducida no te preocupes porque podrás acceder sin problema al espacio. Si tienes algún otro problema de accesibilidad escríbenos e intentaremos atenderte en todo lo posible.
+
 En caso de que sea necesario reportar una violación del código de conducta, podéis contactar con [Laia](llinares@geocampes) o con [Jorge](jsanz@geocamp.es). ¿Necesitas ayuda en cualquier otro asunto? No dudes en contactar con nuestro [equipo]({% link _pages/equipo.md %}) a través de la dirección de correo <info@geocamp.es>
 
 
 ## Equipo
 
-* Organiza: [Equipo]({% link _pages/equipo.md %}),  [Geoinquietos Valencia](http://valencia.geoinquietos.org)
+* Organiza: [Geoinquietos Valencia]({% link _pages/equipo.md %})
 * Colaboran: [Museu Comarcal de L'Horta Sud](http://www.museuhortasud.com/es)
 
 ## Mantente informado
