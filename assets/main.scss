@@ -5,3 +5,73 @@
 @import "minima";
 
 /* GEOCAMP STYLING */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:300,400');
+
+$primary-color: #022362;
+$secondary-color: #c72b66;
+$tertiary-color: #ffa600;
+
+body{
+
+    font-family: 'Montserrat', sans-serif;
+
+    strong, .site-nav .page-link, .site-title {
+        color: $primary-color;
+    }
+
+    a{
+        color: $secondary-color;
+    }
+
+    a:hover, a:visited{
+        color: $tertiary-color;
+    }
+    
+    .svg-icon{
+        fill: $primary-color;
+    }
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lato', sans-serif;
+    color: $primary-color;
+}
+
+.page-content h2{
+    border-top-color: $secondary-color;
+    border-top-style: dashed;
+    border-top-width: 0.05em;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+
+
+.site-header {
+    border-top: 0px;
+    border-bottom: 1px dotted $secondary-color;
+
+    img.header-logo{
+        height: 54px;
+    }
+}
+.site-footer {
+    border-top: 1px dotted $secondary-color;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav .menu-icon > svg {
+        fill:$primary-color;
+    }
+}
+
+
+/* Pages styles */
+
+body.equipo .page-content li a{
+    margin: 0;
+    vertical-align: baseline;
+    bottom: 0px;
+    position: relative;
+}
+
