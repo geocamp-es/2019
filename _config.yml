@@ -28,6 +28,7 @@ description: >
 author: Geoinquietos VLC
 twitter_username: geocampes
 github_username:  geocamp-es
+google_analytics: UA-139715449-1
 
 header_logo: assets/imgs/favicons/favicon_114.png
 
@@ -48,5 +49,4 @@ minima:
     rss: rss
     instagram: '#geocampes'
     telegram: '@geocampes'
-
 
