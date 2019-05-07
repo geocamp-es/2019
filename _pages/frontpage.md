@@ -6,7 +6,7 @@ list_title: Noticias
 ---
 
 <div style="max-width:100%;margin:0;">
-<img src="{%- link assets/imgs/banners/old-valencia.jpg -%}/">
+<img src="{%- link assets/imgs/banners/old-valencia.jpg -%}">
 </div>
 
 ## Qué es
