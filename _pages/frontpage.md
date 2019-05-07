@@ -6,7 +6,7 @@ list_title: Noticias
 ---
 
 <div style="max-width:100%;margin:0;">
-<img src="{% link assets/imgs/banners/old-valencia-trim.png %}/">
+<img src="{%- link assets/imgs/banners/old-valencia.jpg -%}/">
 </div>
 
 ## Qué es
@@ -49,7 +49,7 @@ En caso de que sea necesario reportar una violación del código de conducta, po
 
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="{%- link /assets/imgs/banners/duy-pham-704498-unsplash-trim.jpg -%}">
+<img src="{%- link /assets/imgs/banners/duy-pham-704498-unsplash.jpg -%}">
 <p class="caption">
 <a style="" href="https://unsplash.com/@miinyuii?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Duy Pham">Foto de Duy Pham</a>
 </p>
