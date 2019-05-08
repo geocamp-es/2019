@@ -1,6 +1,7 @@
 ---
 layout: home
 title: GEOCAMP 2019 Valencia
+short-title: Inicio
 permalink: /index.html
 list_title: Noticias
 ---

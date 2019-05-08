@@ -72,11 +72,23 @@ h1, h2, h3, h4 {
 
 /* Pages styles */
 
-body.equipo .page-content li a{
-    margin: 0;
-    vertical-align: baseline;
-    bottom: 0px;
-    position: relative;
+body.equipo table {
+    img{
+        height: auto;
+    }
+
+    border: none;
+    text-align: center;
+
+    td{
+        border: none;
+    }
+    tr:nth-child(even) {
+        background: none;
+    }
+    tr:nth-child(odd) {
+        background: none;
+    }
 }
 
 .page-content .caption{
