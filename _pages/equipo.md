@@ -47,6 +47,8 @@ Geocamp 2019 está coordinado por un equipo formado por miembros de [Geoinquieto
     {% endfor %}
 </div> 
 
----
-
+<div style="text-align:center;margin:25px auto 0 auto; width:100%;">
+<p>
 <img src="https://avatars1.githubusercontent.com/u/1526233?v=4" alt="geoinquietos valencia" width="100"/>
+</p>
+</div>
