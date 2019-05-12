@@ -3,6 +3,21 @@ layout: page
 title: El Museu Comarcal de L'Horta Sud
 short-title: Museu
 permalink: /museu/
+gallery:
+    name: Museu
+    path: /assets/imgs/museu/
+    files:
+        - file: museu-fuera.jpg
+          alt: Fachada del museu
+
+        - file: museu-patio.jpg
+          alt: Patio del museo
+
+        - file: museu-faitanar.jpg
+          alt: Sala Faitanar
+
+        - file: metro-torrent.jpg
+          alt: Parada de MetroValencia en Torrent
 ---
 
 La Geocamp 2019 se va a realizaer en el **Museu de L’Horta Sud** en Torrent. Este museo cuenta con espacio de sobra para alojar la Geocamp en un lugar perfectamente conectado con la ciudad de Valencia, pero ofreciendo un entorno distinto y propicio para pasar un día compartiendo experiencias y conocimiento. De [su web](http://www.museuhortasud.com/):
@@ -15,10 +30,17 @@ El museo se encuentra en la calle *Mare de Déu de l’Olivar 30*, Torrent ([web
 
 El Museo cuenta con distintas salas de exposiciones y un patio interior. Las charlas las haremos en la sala *Faitanar* con capacidad para unas **60 personas**. La comida y descansos se harán en el patio interior (parcialmente cubierto por una parra).
 
-![Museo fuera]( {% link /assets/imgs/museu/museu-fuera.jpg %})
 
-![Patio del museo]( {% link /assets/imgs/museu/museu-patio.jpg %})
-
-![Sala Faitanar]( {% link /assets/imgs/museu/museu-faitanar.jpg %})
-
-![Parada de metro Torrent]( {% link /assets/imgs/museu/metro-torrent.jpg %})
+<div class="gallery">
+    {%- for file in page.gallery.files -%}
+    <div class="card">
+        <a href="{{ page.gallery.path | append: file.file }}"
+           data-mediabox="{{ page.gallery.name }}"
+           data-title="{{ file.alt }}">
+              <img src="{{ page.gallery.path | append: 'thumb.' | append: file.file }}"
+                   alt="{{ file.alt }}" />
+        </a>
+        <p class="caption">{{file.alt }}</p>
+    </div>
+    {%- endfor -%}
+</div>

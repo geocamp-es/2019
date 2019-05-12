@@ -9,6 +9,11 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  {%- if page.gallery -%}
+  <script src="https://cdn.jsdelivr.net/npm/wa-mediabox@1.0.1/dist/wa-mediabox.min.js" integrity="sha256-b/I8z2CxJPrex8TyIoOwBwRMdw392vCVOq/PuVTT724=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/wa-mediabox@1.0.1/dist/wa-mediabox.min.css" integrity="sha256-gETCzDE32KV+GDctVKp+DaWFOnFyD1XJqvLvl0oJjUU=" crossorigin="anonymous">
+  {%- endif -%}
+  
   <!-- Le fav and touch icons -->
   <link rel="apple-touch-icon" sizes="72x72" href="/assets/imgs/favicons/favicon_72.png">
   <link rel="apple-touch-icon" sizes="114x114" href="/assets/imgs/favicons/favicon_114.png">
