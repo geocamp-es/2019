@@ -5,15 +5,12 @@
 @import "minima";
 
 /* GEOCAMP STYLING */
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:300,400');
-
 $primary-color: #022362;
 $secondary-color: #c72b66;
 $tertiary-color: #ffa600;
 
 body{
-
-    font-family: 'Montserrat', sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
     strong, .site-nav .page-link, .site-title {
         color: $primary-color;
@@ -37,7 +34,6 @@ body{
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lato', sans-serif;
     color: $primary-color;
 }
 
