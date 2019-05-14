@@ -6,3 +6,7 @@ permalink: /geopaella/
 ---
 
 Pronto te daremos más información aquí.
+
+Contenido Geopaella, fotos, etc.
+
+Botón Paypal
