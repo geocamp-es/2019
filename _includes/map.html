@@ -1,0 +1,30 @@
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css' rel='stylesheet' />
+
+<script>
+var mapData = {
+    title: "{{ page.map.title }}",
+    center: [{{ page.map.center[0] }}, {{ page.map.center[1] }} ],
+    zoom: {{ page.map.zoom }},
+    style: "{{ page.map.style }}",
+    geojson: {
+        "type": "FeatureCollection",
+        "features": [{%- for feature in page.map.features -%}
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [ {{ feature.lnglat[0] }}, {{ feature.lnglat[1] }}]
+                },
+                "properties": {
+                    "title": "{{ feature.title }}",
+                    "description": "{{ feature.description }}",
+                    "icon": "{{ feature.icon}}",
+                    "size": {{ feature.size}} || 15,
+                    "osm_id": {{feature.osm_id}},
+                    "nolabel": {%if feature.nolabel %} true {% else %} false {% endif %}
+                }
+            }{% unless forloop.last %}, {% endunless %}{%- endfor -%}]
+    }
+};
+</script>

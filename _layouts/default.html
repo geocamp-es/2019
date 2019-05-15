@@ -15,6 +15,9 @@
 
     {%- include footer.html -%}
 
+    {%- if page.map -%}
+    <script src="{% link assets/js/map.js %}"></script>
+    {%- endif -%}
   </body>
 
 </html>

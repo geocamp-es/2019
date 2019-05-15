@@ -27,10 +27,6 @@ body{
     a:hover{
         color: $tertiary-color;
     }
-    
-    .svg-icon{
-        fill: $primary-color;
-    }
 }
 
 h1, h2, h3, h4 {
@@ -62,6 +58,41 @@ h1, h2, h3, h4 {
 @media screen and (max-width: 600px) {
     .site-nav .menu-icon > svg {
         fill:$primary-color;
+    }
+}
+
+
+/* Map component */
+#map {
+    width: 100%;
+    height: 400px;
+
+    .mapboxgl-popup-content{
+        h3 {
+            font-size: 0.8rem;
+        }
+        p {
+            margin: 5px 0 0 0;
+        }
+        p.caption {
+            text-align: right;
+            font-size: 100%;
+        }
+    }
+
+    .map-icon-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        .map-icon-image{
+        }
+        h1 {
+            font-size: 0.8rem;
+            margin: 0;
+        }
     }
 }
 
