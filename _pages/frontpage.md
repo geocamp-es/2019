@@ -9,7 +9,7 @@ list_title: Noticias
 <h1 style="display:none;">Inicio</h1>
 
 <div style="max-width:100%;margin:0;">
-<img src="{%- link assets/imgs/banners/old-valencia.jpg -%}">
+<img src="{%- link assets/imgs/banners/old-valencia.jpg -%}" alt="Banner de Geocamp 2019">
 </div>
 
 ## Qué es
