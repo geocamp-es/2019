@@ -14,6 +14,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     map.addControl(nav, 'top-left');
 
+    map.addControl(new mapboxgl.ScaleControl({position: 'bottom-right'}));
+
 
     // add markers to map
     mapData.geojson.features.forEach(function(marker) {
