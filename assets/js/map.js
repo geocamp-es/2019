@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     `
                     <h3>${marker.properties.title}</h3>
                     <p>${marker.properties.description}</p>
-                    <p class="caption"><a href="https://www.openstreetmap.org/node/${marker.properties.osm_id}">Más info</a></p>
+                    <p class="caption"><a href="https://www.openstreetmap.org/node/${marker.properties.osm_id}">Ver en OSM</a></p>
                     `);
                 
         // add marker to map
