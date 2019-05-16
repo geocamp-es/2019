@@ -5,7 +5,12 @@ short-title: CoC
 permalink: /coc/
 ---
 
-
+<div style="max-width:600px;text-align:center;margin:10px auto 20px;">
+<img src="{%- link /assets/imgs/banners/duy-pham-704498-unsplash.jpg -%}" alt="Juntos es mejor">
+<p class="caption">
+<a style="" href="https://unsplash.com/@miinyuii?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Duy Pham">Foto de Duy Pham</a>
+</p>
+</div>
 
 Todos los participantes y colaboradores de esta actividad están obligados a aceptar el siguiente código de conducta. La organización hará cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todo el mundo. En caso de que sea necesario reportar una violación del código de conducta, podéis contactar con [Laia](llinares@geocamp.es) o con [Jorge](jsanz@geocamp.es).
 

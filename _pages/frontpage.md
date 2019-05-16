@@ -6,6 +6,8 @@ permalink: /index.html
 list_title: Noticias
 ---
 
+<h1 style="display:none;">Inicio</h1>
+
 <div style="max-width:100%;margin:0;">
 <img src="{%- link assets/imgs/banners/old-valencia.jpg -%}">
 </div>
@@ -15,7 +17,7 @@ list_title: Noticias
 **GEOCAMP** se celebrará el **sábado 15 de junio** en el [Museu de L'horta Sud, Torrent]({% link _pages/museu.md %}). Es una *desconferencia* (tipo [Barcamp](https://es.wikipedia.org/wiki/BarCamp))  donde todo el mundo está invitado a particpar. No hay agenda, no hay oradores confirmados, no hay charlas patrocinadas, cualquier tema relacionado con las ciencias de la Tierra es bienvenido. Ven y cuéntanos lo que te **apasiona** y **aprende** de otras experiencias y proyectos.
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="{%- link assets/imgs/banners/barcelona.jpg %}">
+<img src="{%- link assets/imgs/banners/barcelona.jpg %}" alt="GEOCAMP Barcelona 2016">
 <p class="caption">GEOCAMP Barcelona 2016</p>
 </div>
 
@@ -24,7 +26,7 @@ Al comienzo de la jornada nos reuniremos y se recogerán propuestas de **charlas
 Aunque se plantea un único *track* principal, se pueden proponer **actividades paralelas** para aquellos que quieran realizar algún pequeño taller o sesión de trabajo. Si te apetece organizar una de estas sesiones [avísanos](mailto:info@geocamp.es) para que podamos confirmar la disponibilidad de espacio para la misma.
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="{%- link assets/imgs/banners/postits.jpg -%}">
+<img src="{%- link assets/imgs/banners/postits.jpg -%}" alt="Post-its, GEOCAMP Barcelona 2016">
 <p class="caption">GEOCAMP Barcelona 2016</p>
 </div>
 
@@ -34,9 +36,7 @@ Como es tradicional en GEOCAMP, el domingo celebraremos un actividad social opci
 
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-
 <img src="{%- link assets/imgs/banners/descubre-horta.jpg -%}" alt="Geopaella" style=""/>
-
 <p class="caption">Geopaella 2016</p>
 </div>
 
@@ -50,7 +50,7 @@ En caso de que sea necesario reportar una violación del código de conducta, po
 
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="{%- link /assets/imgs/banners/duy-pham-704498-unsplash.jpg -%}">
+<img src="{%- link /assets/imgs/banners/duy-pham-704498-unsplash.jpg -%}" alt="Juntos es mejor">
 <p class="caption">
 <a style="" href="https://unsplash.com/@miinyuii?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Duy Pham">Foto de Duy Pham</a>
 </p>
@@ -66,7 +66,7 @@ Muy pronto publicaremos el formulario de inscripción.
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;" markdown="1">
 
-<img src="{%- link assets/imgs/logos/geoinquietos_vlc.png -%}" alt="geoinquietos valencia" style="max-width:100px;width:100%;"/>
+<img src="{%- link assets/imgs/logos/geoinquietos_vlc.png -%}" alt="Logo Geoinquietos Valencia" style="max-width:100px;width:100%;"/>
 
 [Geoinquietos Valencia]({% link _pages/equipo.md %})
 </div>
@@ -75,7 +75,7 @@ Muy pronto publicaremos el formulario de inscripción.
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;" markdown="1">
 
-<img src="{%- link assets/imgs/logos/museu.jpg -%}" alt="Museu Comarcal De L'Horta Sud" style="max-width:200px;width:100%;"/>
+<img src="{%- link assets/imgs/logos/museu.jpg -%}" alt="Logo del Museu Comarcal De L'Horta Sud" style="max-width:200px;width:100%;"/>
 
 [Museu Comarcal de L'Horta Sud](http://www.museuhortasud.com/es)
 </div>
