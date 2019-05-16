@@ -5,8 +5,8 @@ short-title: Comer
 permalink: /donde-comer/
 map:
   title: Restaurantes
-  center: [ -0.4622, 39.4352 ]
-  zoom: 16
+  center: [ -0.461942, 39.437407]
+  zoom: 15.25
   style: https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json
   features:
     - title: Geocamp
@@ -39,36 +39,36 @@ map:
       size: 15    
      
     - title: Casa El Chesus
-      description: 961 571 452, Menú 9€ aprox., si se va un grupo grande es recomendable reservar
-      lnglat: [-0.4620483 39.4420153]
+      description: 961 571 452, Menú 9€ aprox., para grupos es recomendable reservar
+      lnglat: [-0.4620483, 39.4420153]
       icon: restaurant
       osm_id: 6472214058
       size: 15
       
     - title: La Rioja IV
       description: 961 568 189
-      lnglat: [-0.4596978 39.4397237]
+      lnglat: [-0.4596978, 39.4397237]
       icon: restaurant
       osm_id: 6472214057
       size: 15
      
     - title: Farigola & Menta
       description: 961 177 258, Menú 13€ aprox., tienen opción vegetariana
-      lnglat: [-0.4660537 39.4353369]
+      lnglat: [-0.4660537, 39.4353369]
       icon: restaurant
       osm_id: 6472214056
       size: 15
       
     - title: Casa Agustín
-      description: 961 555 526, 3 Menus: 13€ 20€ y 28€
-      lnglat: [-0.4646362 39.4379054]
+      description: "961 555 526, 3 Menus: 13€ 20€ y 28€"
+      lnglat: [-0.4646362, 39.4379054]
       icon: restaurant
       osm_id: 6472214055
       size: 15
       
     - title: Casa Lluïset
       description: 960 888 665, Menú 18€ aprox.
-      lnglat: [-0.4637530 39.4373383]
+      lnglat: [-0.4637530, 39.4373383]
       icon: restaurant
       osm_id: 6472214054
       size: 15      
