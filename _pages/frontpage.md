@@ -35,7 +35,7 @@ Como es tradicional en GEOCAMP, el domingo celebraremos un actividad social opci
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
 
-<img src="{%- link assets/imgs/banners/descubre-horta.jpg -%}" alt="Geopaella" style=""/>
+<img src="{%- link assets/imgs/geopaella/descubre-horta.jpg -%}" alt="Geopaella" style=""/>
 
 <p class="caption">Geopaella 2016</p>
 </div>

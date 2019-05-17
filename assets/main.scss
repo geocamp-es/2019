@@ -69,35 +69,40 @@ h1, h2, h3, h4 {
 /* Pages styles */
 
 /* Generic gallery layout */
-.page-content div.gallery{
-    display:flex;
-    flex-direction:row;
-    flex-wrap: wrap; 
-    justify-content: center; 
-    align-items: center;
-    align-content: center;
+.page-content{
+    .gallery{
+        display:flex;
+        flex-direction:row;
+        flex-wrap: wrap; 
+        justify-content: center; 
+        align-items: center;
+        align-content: center;
+    
+        .card{
+            flex-grow:1;
+            text-align:center;
 
-    .card{
-        flex-grow:1;
-        text-align:center;
-    }
-}
-
-/* Image captions */
-.page-content .caption{
-    text-align: right;
-    font-size: .6em;
-}
-
-/* Museu gallery images */
-body.el-museu-comarcal-de-l-horta-sud .card{
-    img{
-        max-width: 200px;
-        margin: 5px;
-    }
-    .caption{
-        text-align: center;
-        font-size: 0.8em;
+            img{
+                max-width: 200px;
+                margin: 5px;
+            }
+            .caption{
+                text-align: center;
+                font-size: 0.8em;
+            }
+        }
     }
     
+    /* Image captions */
+    .caption{
+        text-align: right;
+        font-size: .6em;
+    }
+
+    hr {
+        border-top: 1px dotted $secondary-color;
+        margin: 10px 0;
+    }
 }
+
+
