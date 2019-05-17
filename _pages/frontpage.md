@@ -36,7 +36,9 @@ Como es tradicional en GEOCAMP, el domingo celebraremos un actividad social opci
 
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
-<img src="{%- link assets/imgs/banners/descubre-horta.jpg -%}" alt="Geopaella" style=""/>
+
+<img src="{%- link assets/imgs/geopaella/descubre-horta.jpg -%}" alt="Geopaella" style=""/>
+
 <p class="caption">Geopaella 2016</p>
 </div>
 
@@ -58,7 +60,15 @@ En caso de que sea necesario reportar una violación del código de conducta, po
 
 ## Inscripción
 
-Muy pronto publicaremos el formulario de inscripción.
+La inscripción a la GEOCAMP 2019 se realiza a través de [Meetup](https://www.meetup.com/Geoinquietos-Valencia/events/261250129/). La actividad tiene un coste de **5 euros** por dos razones: por un lado para asegurar un mínimo de compromiso por parte de los asistentes y que las plazas se ocupan por gente que realmente va a venir, y por otro para disponer de un pequeño presupuesto para cubrir vuestras necesidades mínimas (bebidas, snacks) sin necesitar de buscar o depender de patrocinadores.
+
+
+<div style="max-width:600px;text-align:center;margin:10px auto 20px;">
+<a href="https://www.meetup.com/Geoinquietos-Valencia/events/261250129">
+    <img style="max-width:200px;" src="{%- link /assets/imgs/logos/meetup.svg -%}" alt="Meetup">
+</a>
+</div>
+
 
 ## Equipo
 
