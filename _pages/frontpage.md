@@ -32,8 +32,7 @@ Aunque se plantea un único *track* principal, se pueden proponer **actividades 
 
 ## Geopaella
 
-Como es tradicional en GEOCAMP, el domingo celebraremos un actividad social opcional. En [Geoinquietos Valencia](http://geoinquietos.org/grupos/valencia/) desde hace ya unos años organizamos una **geopaella** antes de verano, así que este año invitamos a los asistentes a la GEOCAMP a venir a la zona norte de Valencia a disfrutar de un ambiente espectacular con lo mejor de la gatronomía local.
-
+Como es tradicional en GEOCAMP, el domingo celebraremos un actividad social opcional. En [Geoinquietos Valencia](http://geoinquietos.org/grupos/valencia/) desde hace ya unos años organizamos una [**geopaella**]({% link _pages/geopaella.md %}) antes de verano, así que este año invitamos a los asistentes a la GEOCAMP a venir a la zona norte de Valencia a disfrutar de un ambiente espectacular con lo mejor de la gatronomía local. Podéis consultar toda la información y cómo inscribiros [aquí]({% link _pages/geopaella.md %}).
 
 <div style="max-width:600px;text-align:center;margin:10px auto 20px;">
 
