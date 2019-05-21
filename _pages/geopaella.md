@@ -22,7 +22,7 @@ gallery:
 map:
   title: Geopaella
   center: [ -0.39035, 39.514024] 
-  zoom: 16.25
+  zoom: 15
   style: https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json
   features:
     - title: Descubre L'Horta
