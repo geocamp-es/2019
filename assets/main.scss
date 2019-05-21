@@ -27,21 +27,21 @@ body{
     a:hover{
         color: $tertiary-color;
     }
+    
+    .svg-icon{
+        fill: $primary-color;
+    }
+
+    h1, h2, h3, h4 {
+        color: $primary-color;
+    }
 }
 
-h1, h2, h3, h4 {
-    color: $primary-color;
+@media screen and (max-width: 600px) {
+    .site-nav .menu-icon > svg {
+        fill:$primary-color;
+    }
 }
-
-.page-content h2{
-    border-top-color: $secondary-color;
-    border-top-style: dashed;
-    border-top-width: 0.05em;
-    padding-top: 15px;
-    margin-top: 30px;
-}
-
-
 
 .site-header {
     border-top: 0px;
@@ -55,11 +55,6 @@ h1, h2, h3, h4 {
     border-top: 1px dotted $secondary-color;
 }
 
-@media screen and (max-width: 600px) {
-    .site-nav .menu-icon > svg {
-        fill:$primary-color;
-    }
-}
 
 
 /* Map component */
@@ -99,37 +94,47 @@ h1, h2, h3, h4 {
 
 
 /* Pages styles */
-
-/* Generic gallery layout */
-.page-content div.gallery{
-    display:flex;
-    flex-direction:row;
-    flex-wrap: wrap; 
-    justify-content: center; 
-    align-items: center;
-    align-content: center;
-
-    .card{
-        flex-grow:1;
-        text-align:center;
+.page-content{
+    h2{
+        border-top-color: $secondary-color;
+        border-top-style: dashed;
+        border-top-width: 0.05em;
+        padding-top: 15px;
+        margin-top: 30px;
     }
-}
 
-/* Image captions */
-.page-content .caption{
-    text-align: right;
-    font-size: .6em;
-}
+    /* Generic gallery layout */
+    .gallery{
+        display:flex;
+        flex-direction:row;
+        flex-wrap: wrap; 
+        justify-content: center; 
+        align-items: center;
+        align-content: center;
+    
+        .card{
+            flex-grow:1;
+            text-align:center;
 
-/* Museu gallery images */
-body.el-museu-comarcal-de-l-horta-sud .card{
-    img{
-        max-width: 200px;
-        margin: 5px;
-    }
-    .caption{
-        text-align: center;
-        font-size: 0.8em;
+            img{
+                max-width: 200px;
+                margin: 5px;
+            }
+            .caption{
+                text-align: center;
+                font-size: 0.8em;
+            }
+        }
     }
     
+    /* Image captions */
+    .caption{
+        text-align: right;
+        font-size: .6em;
+    }
+
+    hr {
+        border-top: 1px dotted $secondary-color;
+        margin: 10px 0;
+    }
 }

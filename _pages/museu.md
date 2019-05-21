@@ -31,16 +31,3 @@ El museo se encuentra en la calle *Mare de Déu de l’Olivar 30*, Torrent ([web
 El Museo cuenta con distintas salas de exposiciones y un patio interior. Las charlas las haremos en la sala *Faitanar* con capacidad para unas **60 personas**. La comida y descansos se harán en el patio interior (parcialmente cubierto por una parra).
 
 
-<div class="gallery">
-    {%- for file in page.gallery.files -%}
-    <div class="card">
-        <a href="{{ page.gallery.path | append: file.file }}"
-           data-mediabox="{{ page.gallery.name }}"
-           data-title="{{ file.alt }}">
-              <img src="{{ page.gallery.path | append: 'thumb.' | append: file.file }}"
-                   alt="{{ file.alt }}" />
-        </a>
-        <p class="caption">{{file.alt }}</p>
-    </div>
-    {%- endfor -%}
-</div>
