@@ -35,9 +35,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         icon.classList.add(marker.properties.icon);
-        icon.style.backgroundImage = 'url(/assets/imgs/map-icons/' + marker.properties.icon + '-' + size + '.svg)';
+        icon.style.backgroundImage = 'url(/assets/imgs/map-icons/' + marker.properties.icon + ')';
         icon.style.width =  size + 'px';
         icon.style.height =  size + 'px';
+
+        var osm_type = marker.properties.osm_way ? 'way' : 'node';
+        var osm_url = `https://www.openstreetmap.org/${osm_type}/${marker.properties.osm_id}`;
 
 
         var popUp = new mapboxgl.Popup({ offset: 5 })
@@ -45,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     `
                     <h3>${marker.properties.title}</h3>
                     <p>${marker.properties.description}</p>
-                    <p class="caption"><a href="https://www.openstreetmap.org/node/${marker.properties.osm_id}">Ver en OSM</a></p>
+                    <p class="caption"><a href="${osm_url}">Ver en OSM</a></p>
                     `);
                 
         // add marker to map
