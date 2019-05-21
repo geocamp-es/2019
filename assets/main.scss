@@ -57,6 +57,42 @@ body{
 
 
 
+/* Map component */
+#map {
+    width: 100%;
+    height: 600px;
+
+    .mapboxgl-popup-content{
+        h3 {
+            font-size: 0.8rem;
+            font-weight: 800;
+        }
+        p {
+            margin: 5px 0 0 0;
+        }
+        p.caption {
+            text-align: right;
+            font-size: 100%;
+        }
+    }
+
+    .map-icon-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        .map-icon-image{
+        }
+        h1 {
+            font-size: 0.8rem;
+            margin: 0;
+        }
+    }
+}
+
+
 /* Pages styles */
 .page-content{
     h2{
