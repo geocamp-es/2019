@@ -5,8 +5,8 @@ short-title: Comer
 permalink: /donde-comer/
 map:
   title: Restaurantes
-  center: [ -0.461942, 39.437407]
-  zoom: 15.25
+  center: [ -0.464481, 39.436695] 
+  zoom: 16.25
   style: https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json
   features:
     - title: Geocamp
@@ -43,13 +43,6 @@ map:
       lnglat: [-0.4620483, 39.4420153]
       icon: restaurant
       osm_id: 6472214058
-      size: 15
-      
-    - title: La Rioja IV
-      description: 961 568 189
-      lnglat: [-0.4596978, 39.4397237]
-      icon: restaurant
-      osm_id: 6472214057
       size: 15
      
     - title: Farigola & Menta
