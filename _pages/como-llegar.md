@@ -32,7 +32,7 @@ map:
       size: 30
 ---
 
-El Museu Comarcal está a **3 minutos** de la estación de metro de Torrent (la primera parada)por la que pasan las lineas 1 (Villanueva de Castellón) y la 2,7 (Torrent Avinguda). Más información sobre las líneas [aquí](https://www.metrovalencia.es/planos.php?page=103).
+El Museu Comarcal está a **3 minutos** de la estación de metro de Torrent (la primera parada) por la que pasan las lineas 1 (Villanueva de Castellón) y la 2,7 (Torrent Avinguda). Más información sobre las líneas [aquí](https://www.metrovalencia.es/planos.php?page=103).
 
 Además se puede llegar en autobús desde Valencia/Xirivella/Aldaia/Alaquàs con las lineas **106** y **170** de [Fernanbús](http://tarjetamobilis.es/metrobus/), bajando en la segunda parada en Torrent (Gómez Ferrer) quedando a unos **8 minutos** del museo.
 
