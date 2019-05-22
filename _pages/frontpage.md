@@ -4,12 +4,62 @@ title: GEOCAMP 2019 Valencia
 short-title: Inicio
 permalink: /index.html
 list_title: Noticias
+map:
+  title: Geocamp 2019
+  center: [ -0.4282, 39.4677 ] 
+  zoom: 10.5
+  style: /assets/js/voyager-geocamp.json
+  features:
+    - title: Geocamp
+      description: Museu Comarcal de L'Horta Sud
+      lnglat: [-0.4623537, 39.4353180]
+      osm_id: 1761630527
+      icon: geocamp-30.svg
+      size: 30
+    - title: Geopaella
+      description: Descubre L'Horta en Borbotó
+      lnglat: [ -0.3920963, 39.5140603]
+      osm_id: 691513999
+      osm_way: true
+      icon: geopaella-30.png
+      size: 30
+    - title: Aeropuerto
+      description: Aeropuerto de Manises
+      lnglat: [ -0.4706, 39.4904]
+      osm_id: 178540364
+      osm_way: true
+      icon: airport-15.svg
+      size: 15
+    - title: VLC Nord
+      description: "Estación del Norte: Media Distancia y Cercanías"
+      lnglat: [ -0.37715, 39.46593]
+      osm_id: 10153012
+      osm_way: true
+      icon: rail-15.svg
+      size: 15
+    - title: VLC JSO
+      description: "Estación Joaquín Sorolla: Larga Distancia y Alta Velocidad"
+      lnglat: [ -0.38128, 39.45918]
+      osm_id: 554720469
+      osm_way: true
+      icon: rail-15.svg
+      size: 15
 ---
 
 <h1 style="display:none;">Inicio</h1>
 
 <div style="max-width:100%;margin:0;">
 <img src="{%- link assets/imgs/banners/old-valencia.jpg -%}" alt="Banner de Geocamp 2019">
+</div>
+
+<div class="plain-list" markdown="1">
+* [Qué es](#qué-es)
+* [Geopaella](#geopaella)
+* [Diversidad](#diversidad-e-inclusión)
+* [Inscripción](#inscripción)
+* [Dónde](#dónde)
+* [Equipo](#equipo)
+* [#geocampes](#mantente-informado)
 </div>
 
 ## Qué es
@@ -68,6 +118,11 @@ La inscripción a la GEOCAMP 2019 se realiza a través de [Meetup](https://www.m
 </a>
 </div>
 
+## Dónde
+
+Este año celebramos la Geocamp y la Geopaella fuera de una gran ciudad. Valencia y su área metropolitana se encuentran entre las comarcas de L'Horta *Nord* y *Sud*. La Geocamp se llevará a cabo en [Torrent](https://es.wikipedia.org/wiki/Torrente_(Valencia)), ciudad de *L'Horta Sud* perfectamente conectada con Valencia (más detalles en [Cómo llegar]({% link _pages/como-llegar.md %})). Por otro lado la [Geopaella]({% link _pages/geopaella.md %}) se realiza en [Borbotó](https://es.wikipedia.org/wiki/Borbotó), una pedanía de Valencia situada en *L'Horta Nord* conectada con Valencia por autobús urbano. En el [Museu Comarcal](http://localhost:4000/museu/) los asistentes podrán igualmente aprender sobre la tradición etnográfica de la región, esperamos que sirva como contexto enriquecedor y estimulante.
+
+<div id="map" style="height:400px;"></div>
 
 ## Equipo
 
