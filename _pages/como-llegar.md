@@ -26,7 +26,7 @@ map:
 
     - title: Metrobús
       description: Gómez Ferrer 25
-      lnglat: [ -0.46352, 39.43815]
+      lnglat: [ -0.4644558, 39.4381491 ]
       osm_id: 2535800164
       icon: bus-30.svg
       size: 30
@@ -38,4 +38,4 @@ Además se puede llegar en autobús desde Valencia/Xirivella/Aldaia/Alaquàs con
 
 El Museu está en una zona complicada para aparcar, aunque hay un par de solares cerca, se recomienda llegar con tiempo para buscar aparcamiento.
 
-<div id="map"></div>
+<div id="map" style="height:400px"></div>
