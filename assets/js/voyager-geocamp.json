@@ -4654,7 +4654,7 @@
       "type": "symbol",
       "source": "carto",
       "source-layer": "place",
-      "minzoom": 10,
+      "minzoom": 11,
       "maxzoom": 16,
       "filter": [
         "all",
@@ -4736,7 +4736,7 @@
       "type": "symbol",
       "source": "carto",
       "source-layer": "place",
-      "minzoom": 8,
+      "minzoom": 11,
       "maxzoom": 14,
       "filter": [
         "all",
@@ -5164,7 +5164,7 @@
       "type": "symbol",
       "source": "carto",
       "source-layer": "place",
-      "minzoom": 8,
+      "minzoom": 11,
       "maxzoom": 15,
       "filter": [
         "all",
