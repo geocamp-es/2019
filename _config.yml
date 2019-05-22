@@ -37,9 +37,10 @@ header_logo: assets/imgs/favicons/favicon_114.png
 header_pages:
   - _pages/frontpage.md
   - _pages/museu.md
+  - _pages/como-llegar.md
+  - _pages/donde-comer.md
   - _pages/geopaella.md
   - _pages/equipo.md
-  - _pages/donde-comer.md
   - _pages/coc.md
   - _pages/anteriores.md
 
