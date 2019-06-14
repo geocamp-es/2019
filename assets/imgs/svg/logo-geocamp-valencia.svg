@@ -19,12 +19,12 @@
    width="1065.8"
    height="275.87411"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/jsanz/src/osgeo/geocamp/2019/assets/imgs/logo-geocamp-azul-valencia.png"
-   inkscape:export-xdpi="36"
-   inkscape:export-ydpi="36"><metadata
+   inkscape:export-filename="/home/jsanz/src/osgeo/geocamp/2019/assets/imgs/banners/banner-logo.png"
+   inkscape:export-xdpi="125.9705"
+   inkscape:export-ydpi="125.9705"><metadata
    id="metadata848"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs846" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -34,8 +34,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1916"
-   inkscape:window-height="1149"
+   inkscape:window-width="1918"
+   inkscape:window-height="1024"
    id="namedview844"
    showgrid="false"
    fit-margin-top="10"
@@ -46,7 +46,7 @@
    inkscape:cx="566.45471"
    inkscape:cy="72.572254"
    inkscape:window-x="0"
-   inkscape:window-y="49"
+   inkscape:window-y="55"
    inkscape:window-maximized="0"
    inkscape:current-layer="Capa_1" />
 <style
@@ -221,5 +221,6 @@
      sodipodi:role="line"
      id="tspan870"
      x="765.56665"
-     y="435.12543"></tspan></text>
+     y="435.12543" /></text>
+
 </svg>
